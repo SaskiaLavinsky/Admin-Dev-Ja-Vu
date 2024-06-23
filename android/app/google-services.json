@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059285547261",
+    "project_id": "softdev-ja-vu",
+    "storage_bucket": "softdev-ja-vu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059285547261:android:89aa9c3ebdff604061e694",
+        "android_client_info": {
+          "package_name": "com.example.soft_dev_ja_vu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLFoZMW-dngKenHJFf9ATWOtjkwDc1CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
